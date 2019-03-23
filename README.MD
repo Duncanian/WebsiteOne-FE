@@ -2,7 +2,6 @@
 
 # AgileVentures Website React Front End
 
-
 Project Installation
 --------------------
 
